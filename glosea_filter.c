@@ -164,4 +164,3 @@ int main(int argc, char** argv) {
   printf("Data copied and compressed successfully from %s to %s\n", argv[1], argv[2]);
   return 0;
 }
-
